@@ -1,4 +1,4 @@
-// Simple async test for HTTP 200 response code using supertest
+// Simple async test for HTTP 200 response code using supertest123
 'use strict';
 
 var request = require("supertest"),
